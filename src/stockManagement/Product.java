@@ -18,7 +18,7 @@ public class Product {
         this.quantity = quantity;
         this.price = price;
         this.supplier = supplier;
-    }
+    }//
 
     @Override
     public String toString() {

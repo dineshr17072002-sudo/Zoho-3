@@ -12,7 +12,7 @@ public class Inventory {
     int transactionCounter = 1;
 
 
-
+//
     public void addProduct(Product product) {
 
         if(products.containsKey(product.productId)){

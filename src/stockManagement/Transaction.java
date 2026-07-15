@@ -13,7 +13,7 @@ public class Transaction {
                        String type,
                        int quantity,
                        String date) {
-
+//
         this.transactionId = transactionId;
         this.productId = productId;
         this.type = type;

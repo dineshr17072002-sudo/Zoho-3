@@ -23,7 +23,7 @@ public class Main {
             System.out.println("9. Purchase Report");
             System.out.println("10. Exit");
             System.out.print("Enter your choice: ");
-
+//
             int choice = sc.nextInt();
             sc.nextLine(); // consume newline
 
